@@ -2,6 +2,9 @@
 
 This repository contains the implementation of the Edge Guarding algorithm for orthogonal polyhedra, as presented in the thesis "Statistical Analysis on the Art Gallery Problem for Orthogonal Polyhedra".
 
+In src directory, there are 2 files. The file named as "main_with_viewer.cpp" is the older file.
+It is useful to test changing some parameters because it allows us to see a generated polyhedra through GLFW.
+
 ## Requirements
 
 - Windows 10 or 11 (x64)
